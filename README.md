@@ -8,3 +8,4 @@ Translating a graph into features of neural network
 2. Node attribute matrix – features – point correspondences 
 3. Edge attribute matrix – just one  -
 4. possible to give higher values to edges where more folds occur
+<img width="345" alt="image" src="https://user-images.githubusercontent.com/63616025/205916508-bfeed0e3-198e-4756-b507-11740de5b3ec.png">
